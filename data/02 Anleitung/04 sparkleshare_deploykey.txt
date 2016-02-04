@@ -1,0 +1,11 @@
+---
+top: 80
+left: 5
+width: 80
+height: 20
+textcolor: #000000
+---
+
+
+* SparkleShare Client-Key an Manuel oder Jonas senden um ihn bei Github registrieren zu lassen
+

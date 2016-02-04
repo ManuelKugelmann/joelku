@@ -1,0 +1,10 @@
+---
+top: 5
+left: 20
+width: 80
+height: 10
+---
+
+
+* SparkleShare Client-Key in Zwischenablage nehmen
+
