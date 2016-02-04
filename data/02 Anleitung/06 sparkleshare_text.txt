@@ -1,6 +1,6 @@
----
+﻿---
 top: 10
-left: 75
+left: 65
 width: 20
 height: 80
 textcolor: #ff9518
@@ -20,8 +20,4 @@ __fett__
 	* Unterliste
 	* Unterpunkt
 * Punkt
-
-1. Zuerst
-2. Dann
-3. Danach
 
