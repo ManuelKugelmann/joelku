@@ -7,5 +7,5 @@ textcolor: #ffffff
 ---
 
 Alles Gute zum Geburtstag!
-==============
+==========================
 
